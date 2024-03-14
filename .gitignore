@@ -1,0 +1,4 @@
+setenv.sh
+data/
+notebooks/.ipynb_checkpoints/
+notebooks/data/
